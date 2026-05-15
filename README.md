@@ -33,10 +33,10 @@ The design is simulated and verified using a Verilog testbench.
 traffic-light-controller-verilog/
 │
 ├── rtl/
-│ └── traffic_light.v
+│   └── traffic_light.v
 │
 ├── testbench/
-│ └── traffic_light_tb.v
+│   └── traffic_light_tb.v
 │
 └── README.md
 
@@ -48,13 +48,6 @@ traffic-light-controller-verilog/
 - RTL Coding
 - Hardware Simulation
 - Testbench Verification
-
----
-
-## How to Run
-1. Compile the Verilog files
-2. Run simulation
-3. View waveform output using GTKWave
 
 ---
 
