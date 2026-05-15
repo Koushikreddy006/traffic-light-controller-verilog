@@ -50,6 +50,10 @@ traffic-light-controller-verilog/
 - Testbench Verification
 
 ---
+## Simulation Output
 
+![Simulation Output](outputtraffic.png)
+
+---
 ## Author
 Koushik
